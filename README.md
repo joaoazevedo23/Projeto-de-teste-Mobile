@@ -17,9 +17,9 @@ npm run android
 5. Por fim, pressione a tecla "a" em seu terminal para iniciar o android e rodar seu projeto no celular virtual. Caso queira fazer em um celular físico, abra o qr code que será exibido na tela do terminal.
 
 ## Feito por
-Caio Gabriel Ramalho de Carvalho
+Caio Gabriel Ramalho de Carvalho - 3ºDS
 
-João Paulo Ferreira de Azevedo
+João Paulo Ferreira de Azevedo - 3ºDS
 
 # Informações dos DEV do EXPO
 
