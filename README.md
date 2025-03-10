@@ -6,15 +6,15 @@
 npx create-expo-app@latest
 ```
 
-3. Configure o seu aplicativo com as intruções do sistema, dando um nome e confirmando a criação do app.
+2. Configure o seu aplicativo com as intruções do sistema, dando um nome e confirmando a criação do app.
 
-4. Abra o aplicativo android studio e inicialize o celular virtual. Caso queira testar em um celular físico ignore essa etapa.
+3. Abra o aplicativo android studio e inicialize o celular virtual. Caso queira testar em um celular físico ignore essa etapa.
 
-5. Abra a pasta de seu projeto e execute o código abaixo. Isso deve ser feito para instalar as dependências do seu aplicativo mobile no celular virtual.
+4. Abra a pasta de seu projeto e execute o código abaixo. Isso deve ser feito para instalar as dependências do seu aplicativo mobile no celular virtual.
 ```bash
 npm run android
 ```
-6. Por fim, pressione a tecla "a" em seu terminal para iniciar o android e rodar seu projeto no celular virtual. Caso queira fazer em um celular físico, abra o qr code que será exibido na tela do terminal.
+5. Por fim, pressione a tecla "a" em seu terminal para iniciar o android e rodar seu projeto no celular virtual. Caso queira fazer em um celular físico, abra o qr code que será exibido na tela do terminal.
 
 ## Feito por
 Caio Gabriel Ramalho de Carvalho
